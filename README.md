@@ -37,7 +37,8 @@ Students began by reading the *Nature* paper [Computer-assisted classification o
 
 ### Products
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ReZxWqqeofU/0.jpg)](https://www.youtube.com/watch?v=ReZxWqqeofU)
+
+https://github.com/NSF-ALL-SPICE-Alliance/SPICE-P3I-Climate-Health-NLP/assets/76076246/272a261a-4ee5-41e6-b21a-e6c55b0e9d35
 
 
 
