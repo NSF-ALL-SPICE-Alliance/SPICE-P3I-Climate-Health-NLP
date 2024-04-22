@@ -35,10 +35,20 @@ Students began by reading the *Nature* paper [Computer-assisted classification o
 
 [Connor Flynn](https://github.com/ConnorFlynn)
 
-### Watch the Final Presentation Below!
+### Watch the Final Presentations Below!
 
 
 https://github.com/NSF-ALL-SPICE-Alliance/SPICE-P3I-Climate-Health-NLP/assets/76076246/272a261a-4ee5-41e6-b21a-e6c55b0e9d35
+
+
+
+
+
+https://github.com/NSF-ALL-SPICE-Alliance/SPICE-P3I-Climate-Health-NLP/assets/76076246/e38c998b-3df7-4678-8e2f-8df51b2e2526
+
+
+
+
 
 
 
